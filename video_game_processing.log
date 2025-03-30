@@ -1,0 +1,105 @@
+2025-03-30 23:35:34,779 - INFO - API client configured successfully
+2025-03-30 23:35:34,788 - INFO - Successfully loaded 50 video game records.
+2025-03-30 23:35:34,793 - INFO - Starting classification of 50 game titles
+2025-03-30 23:35:34,826 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:35:36,653 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:35:36,656 - INFO - AFC remote call 1 is done.
+2025-03-30 23:35:40,670 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:35:42,326 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:35:42,330 - INFO - AFC remote call 1 is done.
+2025-03-30 23:35:46,341 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:35:47,939 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:35:47,942 - INFO - AFC remote call 1 is done.
+2025-03-30 23:35:51,954 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:35:53,348 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:35:53,351 - INFO - AFC remote call 1 is done.
+2025-03-30 23:35:57,361 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:35:59,216 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:35:59,219 - INFO - AFC remote call 1 is done.
+2025-03-30 23:36:03,221 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:36:04,700 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:36:04,703 - INFO - AFC remote call 1 is done.
+2025-03-30 23:36:08,710 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:36:10,472 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:36:10,474 - INFO - AFC remote call 1 is done.
+2025-03-30 23:36:14,476 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:36:15,967 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:36:15,969 - INFO - AFC remote call 1 is done.
+2025-03-30 23:36:19,978 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:36:21,538 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:36:21,540 - INFO - AFC remote call 1 is done.
+2025-03-30 23:36:25,556 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:36:27,242 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:36:27,243 - INFO - AFC remote call 1 is done.
+2025-03-30 23:36:31,267 - INFO - Results saved successfully to c:\Users\hariz\projects\eklipse_video_game_data\enhanced_video_games.csv
+2025-03-30 23:36:31,267 - INFO - Classification complete. Processed 50 games in 56.47 seconds
+2025-03-30 23:39:30,944 - API client configured successfully
+2025-03-30 23:39:30,953 - Successfully loaded 50 video game records.
+2025-03-30 23:39:30,955 - Starting classification of 50 game titles
+2025-03-30 23:39:30,970 - AFC is enabled with max remote calls: 10.
+2025-03-30 23:39:32,595 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:39:32,598 - AFC remote call 1 is done.
+2025-03-30 23:39:36,605 - AFC is enabled with max remote calls: 10.
+2025-03-30 23:39:38,044 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:39:38,046 - AFC remote call 1 is done.
+2025-03-30 23:39:42,050 - AFC is enabled with max remote calls: 10.
+2025-03-30 23:39:43,544 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:39:43,547 - AFC remote call 1 is done.
+2025-03-30 23:39:47,552 - AFC is enabled with max remote calls: 10.
+2025-03-30 23:39:49,016 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:39:49,017 - AFC remote call 1 is done.
+2025-03-30 23:39:53,030 - AFC is enabled with max remote calls: 10.
+2025-03-30 23:39:54,678 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:39:54,680 - AFC remote call 1 is done.
+2025-03-30 23:39:58,685 - AFC is enabled with max remote calls: 10.
+2025-03-30 23:40:00,326 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:40:00,327 - AFC remote call 1 is done.
+2025-03-30 23:40:04,335 - AFC is enabled with max remote calls: 10.
+2025-03-30 23:40:05,873 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:40:05,876 - AFC remote call 1 is done.
+2025-03-30 23:40:09,886 - AFC is enabled with max remote calls: 10.
+2025-03-30 23:40:11,340 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:40:11,341 - AFC remote call 1 is done.
+2025-03-30 23:40:15,346 - AFC is enabled with max remote calls: 10.
+2025-03-30 23:40:16,934 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:40:16,936 - AFC remote call 1 is done.
+2025-03-30 23:40:20,955 - AFC is enabled with max remote calls: 10.
+2025-03-30 23:40:22,449 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:40:22,451 - AFC remote call 1 is done.
+2025-03-30 23:40:26,470 - Results saved successfully to c:\Users\hariz\projects\eklipse_video_game_data\enhanced_video_games.csv
+2025-03-30 23:40:26,471 - Classification complete. Processed 50 games in 55.52 seconds
+2025-03-30 23:47:06,193 - INFO - API client configured successfully
+2025-03-30 23:47:06,201 - INFO - Successfully loaded 50 video game records.
+2025-03-30 23:47:06,203 - INFO - Starting classification of 50 game titles
+2025-03-30 23:47:06,218 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:47:08,059 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:47:08,061 - INFO - AFC remote call 1 is done.
+2025-03-30 23:47:12,074 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:47:14,023 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:47:14,025 - INFO - AFC remote call 1 is done.
+2025-03-30 23:47:18,036 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:47:19,745 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:47:19,747 - INFO - AFC remote call 1 is done.
+2025-03-30 23:47:23,750 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:47:25,435 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:47:25,437 - INFO - AFC remote call 1 is done.
+2025-03-30 23:47:29,448 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:47:31,127 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:47:31,129 - INFO - AFC remote call 1 is done.
+2025-03-30 23:47:35,136 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:47:36,556 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:47:36,558 - INFO - AFC remote call 1 is done.
+2025-03-30 23:47:40,569 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:47:42,369 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:47:42,372 - INFO - AFC remote call 1 is done.
+2025-03-30 23:47:46,382 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:47:48,175 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:47:48,176 - INFO - AFC remote call 1 is done.
+2025-03-30 23:47:52,181 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:47:53,867 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:47:53,870 - INFO - AFC remote call 1 is done.
+2025-03-30 23:47:57,884 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-30 23:47:59,466 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-30 23:47:59,469 - INFO - AFC remote call 1 is done.
+2025-03-30 23:48:03,479 - INFO - Results saved successfully to c:\Users\hariz\projects\eklipse_video_game_data\enhanced_video_games.csv
+2025-03-30 23:48:03,479 - INFO - Classification complete. Processed 50 games in 57.27 seconds
